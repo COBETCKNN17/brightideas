@@ -11581,11 +11581,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/CBeltII.csproj",
+      "projectUniqueName": "/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Bright Ideas/CBeltII.csproj",
       "projectName": "CBeltII",
-      "projectPath": "/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/CBeltII.csproj",
+      "projectPath": "/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Bright Ideas/CBeltII.csproj",
       "packagesPath": "/Users/boldgoldman/.nuget/packages/",
-      "outputPath": "/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/",
+      "outputPath": "/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/Bright Ideas/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

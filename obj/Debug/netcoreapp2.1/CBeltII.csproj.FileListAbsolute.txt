@@ -1,0 +1,66 @@
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/bin/Debug/netcoreapp2.1/CBeltII.deps.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/bin/Debug/netcoreapp2.1/CBeltII.runtimeconfig.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/bin/Debug/netcoreapp2.1/CBeltII.runtimeconfig.dev.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/bin/Debug/netcoreapp2.1/CBeltII.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/bin/Debug/netcoreapp2.1/CBeltII.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/bin/Debug/netcoreapp2.1/CBeltII.Views.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/bin/Debug/netcoreapp2.1/CBeltII.Views.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.csprojAssemblyReference.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.csproj.CoreCompileInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.RazorAssemblyInfo.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.RazorAssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.AssemblyInfoInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.AssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.TagHelpers.input.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.TagHelpers.output.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.RazorCoreGenerate.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.RazorTargetAssemblyInfo.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.RazorTargetAssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.Views.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/CBeltII.csproj.CopyComplete
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/Razor/Views/Auth/Login.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/Razor/Views/Auth/Register.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/Razor/Views/Home/bright_ideas.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/Razor/Views/Home/idea_detail.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/C#/CBeltII/obj/Debug/netcoreapp2.1/Razor/Views/Home/user_detail.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/bin/Debug/netcoreapp2.1/CBeltII.deps.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/bin/Debug/netcoreapp2.1/CBeltII.runtimeconfig.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/bin/Debug/netcoreapp2.1/CBeltII.runtimeconfig.dev.json
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/bin/Debug/netcoreapp2.1/CBeltII.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/bin/Debug/netcoreapp2.1/CBeltII.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/bin/Debug/netcoreapp2.1/CBeltII.Views.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/bin/Debug/netcoreapp2.1/CBeltII.Views.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.csprojAssemblyReference.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.csproj.CoreCompileInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.RazorAssemblyInfo.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.RazorAssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.AssemblyInfoInputs.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.AssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.TagHelpers.input.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.TagHelpers.output.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.RazorCoreGenerate.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/Razor/Views/Auth/Login.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/Razor/Views/Auth/Register.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/Razor/Views/Home/bright_ideas.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/Razor/Views/Home/idea_detail.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/Razor/Views/Home/user_detail.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.RazorTargetAssemblyInfo.cache
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.RazorTargetAssemblyInfo.cs
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.Views.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.dll
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.pdb
+/Users/boldgoldman/Documents/Developer Files/Coding Dojo/Bright Ideas/obj/Debug/netcoreapp2.1/CBeltII.csproj.CopyComplete

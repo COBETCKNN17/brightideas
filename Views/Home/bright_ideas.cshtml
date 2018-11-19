@@ -1,0 +1,96 @@
+﻿@{
+ViewData["Title"] = "Bright Ideas";
+}
+
+@model CBeltII.ViewModels.BrightIdeasViewModel
+<html>
+<head>
+    <title>Wedding Planner Dashboard</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M"
+        crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1"
+        crossorigin="anonymous"></script>
+
+   
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-3 text-left" style="margin-left: 30px; margin-top: 10px;">
+                <h5>Welcome @ViewBag.theUser.FirstName @ViewBag.theUser.LastName</h5><br>
+            </div>
+            <div class="col-3 text-left" style="margin-left: 30px; margin-top: 10px;">
+            </div>
+            <div class="col-3 text-right" style="margin-top: 10px;">
+                <a href="/Logout">Logout</a>
+            </div>
+        </div>
+        <div class="row">
+            <form asp-action="NewPost" asp-controller="Home" method="POST">
+                <div>
+                    <div class="col">
+                        <textarea id="PostText" type="text" name="PostText" style="width:750px; margin-left:50px; margin-top:50px;">
+                            Post something witty here...
+                        </textarea>
+                        <div id="postbutton">
+                            <input type="submit" name="submit" value="Post" style="position: absolute; left: 830px; top: 60px;">
+                        </div>
+                    </div>
+                    
+                </div>
+            </form>
+        </div>
+        <div style="width:800px; margin-left:50px; margin-top:10px;">
+            @{
+            foreach (var post in ViewBag.AllPosts)
+            {
+            
+            <table>
+                <tr>
+                    <td style="width: 160px;">
+                        <p><a href="/users/@post.UserId">@post.User.FirstName @post.User.LastName</a> says:</p>
+                    </td>
+                    <td style="margin-left: 30px;">
+                        <p style="margin-left: 20px; border: 1px solid black; padding: 9px; width: 350px;">@post.PostText</p>
+                    </td>
+                     @if(post.UserId == ViewBag.theUser.UserId)
+                        {
+                        <td><a href="/delete/@post.PostId" style="margin-left: 15px;">Delete</a></td>
+                        }
+                </tr>
+            </table>
+
+            <p style="margin-left: 190px; margin-bottom: 20px;"> 
+                @{
+                bool show = true;
+                foreach (var like in post.Likes)
+                {
+                if (like.UserId == ViewBag.theUser.UserId)
+                {
+                show = false;
+                }
+                }
+                if(show)
+                {
+                <a href="/like/@post.PostId">Like</a>
+                }
+                else
+                {
+                <span></span>
+                }
+                }
+                <a href="/bright_ideas/@post.PostId" style="margin-left: 10px;">@post.Likes.Count People</a> Like this post</p>
+            }
+            }
+        </div>
+    </div>
+    
+</body>
+
+</html>
+
